@@ -53,6 +53,8 @@ public class mainfile
             javatocmdcommand();
         }
 
+        userinputscanner.close();
+
 
     }
 
